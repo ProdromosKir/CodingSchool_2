@@ -1,0 +1,15 @@
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\bin\Debug\net6.0\2b.exe
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\bin\Debug\net6.0\2b.deps.json
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\bin\Debug\net6.0\2b.runtimeconfig.json
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\bin\Debug\net6.0\2b.dll
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\bin\Debug\net6.0\2b.pdb
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\obj\Debug\net6.0\2b.csproj.AssemblyReference.cache
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\obj\Debug\net6.0\2b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\obj\Debug\net6.0\2b.AssemblyInfoInputs.cache
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\obj\Debug\net6.0\2b.AssemblyInfo.cs
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\obj\Debug\net6.0\2b.csproj.CoreCompileInputs.cache
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\obj\Debug\net6.0\2b.dll
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\obj\Debug\net6.0\refint\2b.dll
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\obj\Debug\net6.0\2b.pdb
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\obj\Debug\net6.0\2b.genruntimeconfig.cache
+C:\Users\Prodromos\source\repos\CodingSchool_2\2b\2b\obj\Debug\net6.0\ref\2b.dll
